@@ -9,4 +9,4 @@ An application with React and Router. The project is a company's store hub where
 * About  -Company About
 * NotFound -If you try to go the wrong way, a not found page will show up here. And you can back up if you want
 
-## Live Preview[https://store-hub.netlify.app/]
+## [Live Preview](https://store-hub.netlify.app/)
