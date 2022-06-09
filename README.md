@@ -3,6 +3,7 @@ An application with React and Router. The project is a company's store hub where
 
 ## Section details
 * Home -all product load from fakeStoreApi
+* product Details -If you want you can find out more details by clicking on the product of your choice
 * Service -What services are there?
 * Organization  -Organizational Chart For Business
 * About  -Company About
