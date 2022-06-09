@@ -1,0 +1,9 @@
+.about{
+    background: linear-gradient(rgba(42, 10, 184, 0.3), rgba(12, 103, 240, 0.3)),url('./about.jpg');
+    background-size: cover;
+    height: 600px;
+    position: sticky;
+    
+}
+
+ 
